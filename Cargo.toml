@@ -6,4 +6,5 @@ members = [
     "3_1_guessing_game",
     "3_2_dining_philosophers",
     "rectangles",
+    "restaurant",
 ]
