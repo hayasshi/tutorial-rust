@@ -5,4 +5,5 @@ members = [
     "2_hello_world_myself",
     "3_1_guessing_game",
     "3_2_dining_philosophers",
+    "rectangles",
 ]
